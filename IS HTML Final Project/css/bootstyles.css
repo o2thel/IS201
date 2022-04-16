@@ -1,0 +1,46 @@
+div{
+    font-family: sans-serif;
+}
+body{
+    background-color: lightblue;
+}
+
+a{
+    color: darkblue;
+}
+a:visited{
+    color: darkblue;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.common{
+    background-color: darkgray;
+    position: absolute;
+}
+p{
+    border: solid 2px black;
+    background-color: lightgray;
+}
+
+.header{
+    font-size: 20px;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border-bottom: solid 1px black;
+}
+
+.footer{
+    bottom: 5px;
+    height: 100px;
+    left: 5px;
+    right: 5px;
+    font-size: 14px;
+    color: gray;
+    text-align: center;
+    position: relative;
+}
