@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(216, 214, 211);
+}
+
+.newsub {
+    color: rgb(255, 255, 255);
+}
+
+.footer {
+    font-size: 15px;
+    color: gray;
+    text-align: center;
+    border: solid 2px rgb(61, 58, 58);
+    border-radius: 20px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+.copywrite {
+    font-size: 14px;
+}
+  
+.bold{
+    font-weight: bold;
+    font-size: 20px;
+}
+.normal{
+    font-weight: normal;
+}
+a:hover{
+    text-decoration: underline;
+}
+a{
+    color: rgb(107, 105, 105);
+}
